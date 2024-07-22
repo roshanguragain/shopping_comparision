@@ -1,0 +1,130 @@
+<?php include_once 'header.php';?>
+ <h3 class="float-left" id="mobile" style="margin-left: 10px; padding-top: 10px; margin-bottom: 20px;">● Electronics</h3>
+<div class="row-md-4" class="cat">
+  <div class="container">
+  <div class="elect">
+  <img src="images/nokia 61.jpeg" alt="Nokia 6" title="Nokia 6">
+  <h6 style="margin-top: 275px; text-align: center;line-height: 15px;">Nokia 6</h6></div>
+  <div class="elect">Electronics
+  <h6 style="margin-top: 275px; text-align: center;line-height: 15px;">Nokia 8</h6></div>
+  <div class="elect">Electronics 3
+  <h6 style="margin-top: 275px; text-align: center;line-height: 15px;">Nokia 3</h6></div>
+  <div class="elect">Electronics 4
+  <h6 style="margin-top: 275px; text-align: center;line-height: 15px;">Nokia 5</h6></div>
+  <div class="elect">Electronics 1
+  <h6 style="margin-top: 275px; text-align: center;line-height: 15px;">Samsung Galaxy J7</h6></div>
+  <div class="elect">Electronics 2
+  <h6 style="margin-top: 275px; text-align: center;line-height: 15px;">Nova 2i Heiwai</h6></div>
+  <div class="elect">Electronics 3</div>
+  <div class="elect">Electronics 4</div>
+  <div class="elect">Electronics 1</div>
+  <div class="elect">Electronics 2</div>
+  <div class="elect">Electronics 3</div>
+  <div class="elect">Electronics 4</div>
+  <div class="elect">Electronics 1</div>
+  <div class="elect">Electronics 2</div>
+  <div class="elect">Electronics 3</div>
+  <div class="elect">Electronics 4</div>
+  <div class="elect">Electronics 1</div>
+  <div class="elect">Electronics 2</div>
+  <div class="elect">Electronics 3</div>
+  <div class="elect">Electronics 4</div>
+  <div class="elect">Electronics 1</div>
+  <div class="elect">Electronics 2</div>
+  <div class="elect">Electronics 3</div>
+  <div class="elect">Electronics 4</div>
+  <div class="elect">Electronics 1</div>
+  <div class="elect">Electronics 2</div>
+  <div class="elect">Electronics 3</div>
+  <div class="elect">Electronics 4</div>
+  <div class="elect">Electronics 1</div>
+  <div class="elect">Electronics 2</div>
+  <div class="elect">Electronics 3</div>
+  <div class="elect">Electronics 4</div>
+  <div class="elect">Electronics 1</div>
+  <div class="elect">Electronics 2</div>
+  <div class="elect">Electronics 3</div>
+  <div class="elect">Electronics 4</div>
+  <div class="elect">Electronics 1</div>
+  <div class="elect">Electronics 2</div>
+  <div class="elect">Electronics 3</div>
+  <div class="elect">Electronics 4</div>
+  <div class="elect">Electronics 1</div>
+  <div class="elect">Electronics 2</div>
+  <div class="elect">Electronics 3</div>
+  <div class="elect">Electronics 4</div>
+  <div class="elect">Electronics 1</div>
+  <div class="elect">Electronics 2</div>
+  <div class="elect">Electronics 3</div>
+  <div class="elect">Electronics 4</div>
+  <div class="elect">Electronics 1</div>
+  <div class="elect">Electronics 2</div>
+  <div class="elect">Electronics 3</div>
+  <div class="elect">Electronics 4</div>
+  <div class="elect">Electronics 1</div>
+  <div class="elect">Electronics 2</div>
+  <div class="elect">Electronics 3</div>
+  <div class="elect">Electronics 4</div>
+</div>
+</div>
+<h3 class="float-left" id="mobile" style="margin-left: 10px; padding-top: 10px; margin-bottom: 20px;">●Electronics 2</h3>
+<div class="row-md-4" id="cat">
+	<div class="container">
+	<div class="elect">Electronics 1</div>
+	<div class="elect">Electronics 2</div>
+	<div class="elect">Electronics 3</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>	
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 1</div>
+	<div class="elect">Electronics 2</div>
+	<div class="elect">Electronics 3</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>	
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 1</div>
+	<div class="elect">Electronics 2</div>
+	<div class="elect">Electronics 3</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>	
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+	<div class="elect">Electronics 4</div>
+</div>
+</div>
+<br>
+<?php include_once('footer.php'); ?>
